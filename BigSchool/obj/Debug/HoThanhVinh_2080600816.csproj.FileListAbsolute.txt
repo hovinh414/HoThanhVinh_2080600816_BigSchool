@@ -222,3 +222,4 @@ C:\Users\ACER\Desktop\HoThanhVinh_2080600816_BigSchool\BigSchool\obj\Debug\HoTha
 C:\Users\ACER\Desktop\HoThanhVinh_2080600816_BigSchool\BigSchool\obj\Debug\HoThanhVinh_2080600816.csproj.CopyComplete
 C:\Users\ACER\Desktop\HoThanhVinh_2080600816_BigSchool\BigSchool\obj\Debug\BigSchool.dll
 C:\Users\ACER\Desktop\HoThanhVinh_2080600816_BigSchool\BigSchool\obj\Debug\BigSchool.pdb
+C:\Users\ACER\Desktop\HoThanhVinh_2080600816_BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
